@@ -2,6 +2,17 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1nforerogiraldo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="@sefogi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
 <p align="left">Desarrollador Web Full Stack | Programador Python<br><br>Experiencia: 4 años en desarrollo web y programación</p>
 
 ###
@@ -63,6 +74,9 @@
 
 ###
 
+ 
+  
+  
 
 
 
