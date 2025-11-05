@@ -25,7 +25,7 @@ Mi experiencia se centra en tecnologías modernas para crear aplicaciones comple
 | Área | Lenguajes / Frameworks | Habilidades Clave |
 | :--- | :--- | :--- |
 | **Backend** | **Python** (Django, Flask, FastAPI) | Desarrollo de APIs RESTful, Automatización, Scripting. |
-| **Frontend** | **JavaScript** (React.js, Node.js) | UI dinámica, Single Page Applications (SPA), Server-Side Development. |
+| **Frontend** | **JavaScript, TypeScript** (React.js, Angular, Astro, Node.js) | UI dinámica, Single Page Applications (SPA), Server-Side Development. |
 | **Bases de Datos** | SQL (PostgreSQL, MySQL) & NoSQL (MongoDB) | Diseño de esquemas, Optimización de consultas. |
 
 ### ⚙️ Herramientas y DevOps
