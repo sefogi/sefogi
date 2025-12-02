@@ -39,9 +39,14 @@ Mi experiencia se centra en tecnologías modernas para crear aplicaciones comple
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sefogi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=es&hide_border=true&order=1" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sefogi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" alt="Lenguajes Principales" />
+  <!-- Profile details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sefogi&theme=radical" alt="Profile details" />
+  <!-- Top langs (por repositorios) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sefogi&theme=radical" alt="Top languages" />
+  <!-- Stats generales -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sefogi&theme=radical" alt="GitHub stats" />
 </div>
+
 
 ---
 
